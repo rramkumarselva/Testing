@@ -27,6 +27,7 @@ public class DropJava {
         List<String> collect2 = collect.stream().sorted().collect(Collectors.toList());
         System.out.println(collect2);
         System.out.println("thillai Project");
+        System.out.println("thillai Project2");
         
 		
 
