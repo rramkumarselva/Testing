@@ -22,6 +22,7 @@ public class Frames {
 	    driver.findElement(By.id("Click1")).click();
 	   driver.switchTo().parentFrame();
 	   driver.switchTo().defaultContent();
+	   System.out.println("thillai Project");
 		
 
 	}
